@@ -35,7 +35,7 @@ Runs fully locally using open-source Python libraries—no APIs, no subscription
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bert-bug-preprocessor.git
+git clone https://github.com/Varadkulkarni2002/bert-bug-preprocessor.git
 cd bert-bug-preprocessor
 ```
 
